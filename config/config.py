@@ -1,0 +1,2 @@
+TELEGRAM_BOT_TOKEN = "7795086037:AAFP4ArjOZSjQXZKmIzhHgIeFmU_oFHghHw"
+CHAT_ID = "@pisingirap_bot"
